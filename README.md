@@ -21,7 +21,7 @@ g++ -o ./build/client ./src/client.cpp
 ```
 You will have to use \ if you are on windows. To run those files do to the root directory of your project (./a/)
 and run this.
-```bash
+```
 build
 ```
 Then you should see a screen that looks like this
@@ -29,7 +29,7 @@ Then you should see a screen that looks like this
 Welcome to Build. To exit do the command "exit".
 ```
 To run a command do this for example
-```bash
+```
 Welcome to Build. To exit do the command "exit".
 run:
 Hello, World!
