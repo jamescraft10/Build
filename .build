@@ -1,0 +1,9 @@
+run:
+g++ -o ./build/a ./testing/a.c
+.\\build\\a
+;
+
+abc:
+g++ -o build/b testing/b.c
+.\build\b
+;
