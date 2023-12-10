@@ -1,7 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cstdlib>
-#include <conio.h>
 
 namespace Pixel {
     void SetCords(int x, int y) {
