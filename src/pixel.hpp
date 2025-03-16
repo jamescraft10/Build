@@ -42,7 +42,7 @@ namespace Pixel {
         std::cout << "\033[22m";
     }
 
-    void ClearScrean() { // avg c++ W
+    void ClearScrean() {
         std::cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
     }
 }
